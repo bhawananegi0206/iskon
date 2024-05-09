@@ -72,3 +72,19 @@ section {
     background-repeat: repeat-x;
     background-size: auto;
   }
+
+  .tilesContainer {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    width: 1024px;
+    margin: auto;
+}
+.tilesSection{
+    margin: 20px;
+    border: 10px solid;
+    width: 50%;
+}
+.tilesSection img{
+    width:450px;
+}
