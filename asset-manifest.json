@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bhawananegi0206/iskon/static/css/main.22203566.css",
+    "main.js": "/bhawananegi0206/iskon/static/js/main.f5f63832.js",
+    "static/js/453.09aae068.chunk.js": "/bhawananegi0206/iskon/static/js/453.09aae068.chunk.js",
+    "static/media/WHITESHADE2.png": "/bhawananegi0206/iskon/static/media/WHITESHADE2.66bfb959d481c69383f2.png",
+    "static/media/topimage.jpg": "/bhawananegi0206/iskon/static/media/topimage.b45a6e63da24e42a898f.jpg",
+    "static/media/iskon1.jpg": "/bhawananegi0206/iskon/static/media/iskon1.af509efb560e3fbcd501.jpg",
+    "static/media/iskon2.jpg": "/bhawananegi0206/iskon/static/media/iskon2.b0e6737853e63cce211f.jpg",
+    "static/media/iskon3.jpg": "/bhawananegi0206/iskon/static/media/iskon3.b1a19a3e04096faa1ced.jpg",
+    "static/media/logo.svg": "/bhawananegi0206/iskon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bhawananegi0206/iskon/index.html",
+    "main.22203566.css.map": "/bhawananegi0206/iskon/static/css/main.22203566.css.map",
+    "main.f5f63832.js.map": "/bhawananegi0206/iskon/static/js/main.f5f63832.js.map",
+    "453.09aae068.chunk.js.map": "/bhawananegi0206/iskon/static/js/453.09aae068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22203566.css",
+    "static/js/main.f5f63832.js"
+  ]
+}
