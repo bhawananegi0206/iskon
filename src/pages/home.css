@@ -1,0 +1,90 @@
+.herobg {
+    background: url(../../public//assets/topimage.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hero {
+    height: 800px;
+}
+section {
+    position: relative;
+    padding: 50px 0;
+}
+.hero p.small a {
+    font-size: 15px;
+  }
+  
+  .hero h1 {
+    margin-bottom: 20px;
+    font-family: "Lora", serif;
+    /* color: #2f2e36; */
+    color: #ffffff;
+    font-weight: 600;
+  }
+  
+  .hero .lead1 {
+    font-family: "Lato";
+    color: #ffffff;
+    font-weight: 600;
+    margin-bottom: 14px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  .hero .lead2 {
+    font-family: "Lato";
+    color: #2f2e36;
+    font-weight: 600;
+    margin-bottom: 14px;
+    font-size: 24px;
+    line-height: 28px;
+  }
+  
+  .hero .lead3 {
+    font-family: "Lato";
+    color: rgba(47, 52, 63, 0.56);
+    font-size: 20px;
+    line-height: 24px;
+    margin: 8px 0 8px;
+  }
+  
+  .text-center.bg-light {
+    min-width: 992px;
+    width: 78%;
+    padding: 50px 30px 50px;
+    background: #fff !important;
+    -webkit-box-shadow: 0px 9px 26px -111px rgba(163, 161, 163, 1);
+    -moz-box-shadow: 0px 9px 26px -111px rgba(163, 161, 163, 1);
+    box-shadow: 0px 9px 26px -111px rgba(163, 161, 163, 1);
+    max-width: max-content;
+    margin: 0 auto;
+    border-radius: 16px;
+  }
+  .overlay1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background-position: bottom !important;
+    background: url(../../public/assets/WHITESHADE2.png);
+    background-repeat: repeat-x;
+    background-size: auto;
+  }
+
+  .tilesContainer {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    width: 1024px;
+    margin: auto;
+}
+.tilesSection{
+    margin: 20px;
+    border: 10px solid;
+    width: 50%;
+}
+.tilesSection img{
+    width:450px;
+}
