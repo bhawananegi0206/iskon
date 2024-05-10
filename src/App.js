@@ -6,19 +6,19 @@ import About from "./pages/aboutUs.js";
 import Contact from "./pages/contactUs.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <BrowserRouter basename='/iskon'>
+      <HashRouter >
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/:about" element={<About />} />
+          <Route path="/:contact" element={<Contact />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
