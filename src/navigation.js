@@ -7,22 +7,22 @@ const Navbar = () => {
       <div className="collapse navbar-collapse" id="navbarNavDropdown">
         <ul className="navbar-nav">
           <li className="nav-item active">
-            <a className="nav-link" href="/home">
+            <a className="nav-link" href="/iskon">
               Home
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/about">
+            <a className="nav-link" href="/iskon/about">
               About
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/temple">
+            <a className="nav-link" href="/iskon/temple">
               Temple
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/contact">
+            <a className="nav-link" href="/iskon/contact">
               Contact
             </a>
           </li>
