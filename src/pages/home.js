@@ -22,7 +22,7 @@ class Home extends Component {
         </section>
 
       </div>
-      <h3>Upcoming Events</h3>
+      <h3>Upcoming Events updates</h3>
       <div className="tilesContainer">
           <div className="tilesSection">
             <img src={iskon1}></img>
