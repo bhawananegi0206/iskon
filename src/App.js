@@ -12,11 +12,11 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <BrowserRouter>
+      <BrowserRouter basename='/iskon'>
         <Routes>
-          <Route path="/iskon" element={<Home />} />
-          <Route path="/iskon/about" element={<About />} />
-          <Route path="/iskon/contact" element={<Contact />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </div>

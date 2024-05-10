@@ -3,7 +3,7 @@ class Contact extends Component {
   render() {
     return (
         <div>
-          <h2>Contact</h2>
+          <h2>About</h2>
         </div>
     );
   }
