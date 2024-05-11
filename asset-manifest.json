@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iskon/static/css/main.9659457d.css",
-    "main.js": "/iskon/static/js/main.fb6a049d.js",
+    "main.css": "/iskon/static/css/main.803350f2.css",
+    "main.js": "/iskon/static/js/main.4254646c.js",
     "static/js/453.09aae068.chunk.js": "/iskon/static/js/453.09aae068.chunk.js",
     "static/media/WHITESHADE2.png": "/iskon/static/media/WHITESHADE2.66bfb959d481c69383f2.png",
     "static/media/topimage.jpg": "/iskon/static/media/topimage.b45a6e63da24e42a898f.jpg",
@@ -10,12 +10,12 @@
     "static/media/iskon3.jpg": "/iskon/static/media/iskon3.b1a19a3e04096faa1ced.jpg",
     "static/media/logo.svg": "/iskon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/iskon/index.html",
-    "main.9659457d.css.map": "/iskon/static/css/main.9659457d.css.map",
-    "main.fb6a049d.js.map": "/iskon/static/js/main.fb6a049d.js.map",
+    "main.803350f2.css.map": "/iskon/static/css/main.803350f2.css.map",
+    "main.4254646c.js.map": "/iskon/static/js/main.4254646c.js.map",
     "453.09aae068.chunk.js.map": "/iskon/static/js/453.09aae068.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9659457d.css",
-    "static/js/main.fb6a049d.js"
+    "static/css/main.803350f2.css",
+    "static/js/main.4254646c.js"
   ]
 }
