@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iskon/static/css/main.41f0f942.css",
-    "main.js": "/iskon/static/js/main.c200b7a9.js",
+    "main.css": "/iskon/static/css/main.489b5fef.css",
+    "main.js": "/iskon/static/js/main.6a576009.js",
     "static/js/453.09aae068.chunk.js": "/iskon/static/js/453.09aae068.chunk.js",
     "static/media/iskonBG1.jpeg": "/iskon/static/media/iskonBG1.2b0b3163bda3a3d396e5.jpeg",
     "static/media/iskonBG3.jpeg": "/iskon/static/media/iskonBG3.ce8ce3d90762b08ab9e1.jpeg",
@@ -11,12 +11,12 @@
     "static/media/iskon3.jpg": "/iskon/static/media/iskon3.b1a19a3e04096faa1ced.jpg",
     "static/media/logo.svg": "/iskon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/iskon/index.html",
-    "main.41f0f942.css.map": "/iskon/static/css/main.41f0f942.css.map",
-    "main.c200b7a9.js.map": "/iskon/static/js/main.c200b7a9.js.map",
+    "main.489b5fef.css.map": "/iskon/static/css/main.489b5fef.css.map",
+    "main.6a576009.js.map": "/iskon/static/js/main.6a576009.js.map",
     "453.09aae068.chunk.js.map": "/iskon/static/js/453.09aae068.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f0f942.css",
-    "static/js/main.c200b7a9.js"
+    "static/css/main.489b5fef.css",
+    "static/js/main.6a576009.js"
   ]
 }
