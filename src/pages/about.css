@@ -1,0 +1,26 @@
+
+ 
+.aboutus_title {
+  flex: 33.33% 1;
+  padding: 20px;
+  margin: 5px;
+  background-color: #F99E50;
+  text-align: center;
+  border: 1px;
+  border-style: ridge;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: 50px;
+}
+
+.aboutus_subTitle{
+  font-size: 30px;
+  font-style: italic;
+  flex: 33.33% 1;
+  padding: 20px;
+  margin: 5px;
+  background-color: #F99E50;
+  text-align: center;
+  border: 1px;
+  border-style: ridge;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

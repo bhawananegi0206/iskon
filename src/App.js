@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./navigation.js";
+import Footer from "./footer.js";
 import Home from "./pages/home.js";
 import About from "./pages/aboutUs.js";
 import Contact from "./pages/contactUs.js";
@@ -15,10 +16,11 @@ function App() {
       <HashRouter >
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/:about" element={<About />} />
-          <Route path="/:contact" element={<Contact />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </HashRouter>
+      <Footer />
     </div>
   );
 }
