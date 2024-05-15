@@ -21,6 +21,21 @@ const Navbar = () => {
               Contact
             </a>
           </li>
+          <li className="nav-item">
+            <a className="nav-link" href="#/study">
+            Study Visit
+            </a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="#/program">
+            Program & Event
+            </a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="#/literature">
+            Literature
+            </a>
+          </li>
         </ul>
       </div>
     </nav>

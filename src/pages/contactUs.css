@@ -6,3 +6,54 @@
   margin: 50px;
   font-size: 50px;
 }
+
+.littC1 {
+	position:relative;
+	float: left;
+	height:auto;
+	width: 30%;
+	margin-top: 80px;
+	margin-right: auto;
+	margin-bottom: auto;
+	font-family: 'Montserrat', cursive;
+	font-size: 1.2em;
+	color: #999999;
+	text-align: center;
+	z-index:1;
+  padding: 10px;
+} 
+.littC2 {
+	position:relative;
+	float: left;
+	height:auto;
+	width: 30%;
+	margin-top: 80px;
+	margin-right: auto;
+	margin-bottom: auto;
+	font-family: 'Montserrat', cursive;
+	font-size: 1.2em;
+	color: #999999;
+	text-align: center;
+	z-index:1;
+  padding: 10px;
+}
+.littC3 {
+	position:relative;
+	float: left;
+	width: 30%;
+	height:auto;
+	margin-top: 80px;
+	margin-right: auto;
+	margin-bottom: auto;
+	font-family: 'Montserrat', cursive;
+	font-size: 1.2em;
+	color: #999999;
+	text-align: center;
+	z-index:1;
+  padding: 10px;
+}
+
+#literatureContent{
+  display: flex;
+  flex-direction: column;
+}

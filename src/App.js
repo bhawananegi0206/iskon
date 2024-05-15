@@ -5,6 +5,9 @@ import Footer from "./footer.js";
 import Home from "./pages/home.js";
 import About from "./pages/aboutUs.js";
 import Contact from "./pages/contactUs.js";
+import Literature from "./pages/literature.js";
+import Program from "./pages/programEvents.js";
+import Study from "./pages/study.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import { HashRouter, Routes, Route } from "react-router-dom";
@@ -18,6 +21,9 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/literature" element={<Literature />} />
+          <Route path="/study" element={<Study />} />
+          <Route path="/program" element={<Program />} />
         </Routes>
       </HashRouter>
       <Footer />
