@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/iskon/static/css/main.1a1c2dc0.css",
-    "main.js": "/iskon/static/js/main.b4fad40a.js",
+    "main.js": "/iskon/static/js/main.b3a19d4c.js",
     "static/js/453.09aae068.chunk.js": "/iskon/static/js/453.09aae068.chunk.js",
     "static/media/iskonBG1.jpeg": "/iskon/static/media/iskonBG1.2b0b3163bda3a3d396e5.jpeg",
     "static/media/iskonBG3.jpeg": "/iskon/static/media/iskonBG3.ce8ce3d90762b08ab9e1.jpeg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/iskon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/iskon/index.html",
     "main.1a1c2dc0.css.map": "/iskon/static/css/main.1a1c2dc0.css.map",
-    "main.b4fad40a.js.map": "/iskon/static/js/main.b4fad40a.js.map",
+    "main.b3a19d4c.js.map": "/iskon/static/js/main.b3a19d4c.js.map",
     "453.09aae068.chunk.js.map": "/iskon/static/js/453.09aae068.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a1c2dc0.css",
-    "static/js/main.b4fad40a.js"
+    "static/js/main.b3a19d4c.js"
   ]
 }
