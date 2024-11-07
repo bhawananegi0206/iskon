@@ -8,13 +8,7 @@ const Footer = () => {
         <div class="col-sm-12 col-md-6">
           <h6>About</h6>
           <p class="text-justify">
-            Srila Prabhupada came to New York in 1965 and in twelve short
-            years made the chanting of ‘Hare Krishna’ known throughout the
-            world. He started a spiritual revolution wherein devotion,
-            simplicity and compassion became the direction for living.
-            Coming from a lineage of self-realized teachers, Srila
-            Prabhupada gave a fearless exposition of devotional wisdom
-            which had been kept locked within India for centuries.
+         welcome
           </p>
         </div>
 

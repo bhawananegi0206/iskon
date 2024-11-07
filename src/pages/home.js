@@ -4,12 +4,25 @@ import Hero from "../hero.js";
 import iskon1 from "../images/iskon1.jpg";
 import iskon2 from "../images/iskon2.jpg";
 import iskon3 from "../images/iskon3.jpg";
+import AlokaiCheckout from 'alokai-checkout-component';
+
+const products = [
+  {
+    id: 1,
+    name: 'Product 1',
+    description: 'This is a description for product 1',
+    price: 20,
+    image: 'https://via.placeholder.com/150',
+  },
+  // Add more products here
+];
 class Home extends Component {
   render() {
     return (
       <>
         <div>
           <Hero />
+          <AlokaiCheckout products={products}  ></AlokaiCheckout> 
         </div>
         <div class="information">
           <div class="information-col">
